@@ -19,13 +19,13 @@ It provides information about various cities, including their locations on a map
 ## Screenshots
 **Homepage:**
 
-![image](https://github.com/roibenshoham/WorldWise/assets/87220798/e01fef04-6a72-49eb-8628-8edb077cb1c9)
+![Screenshot 2023-08-22 113747](https://github.com/roibenshoham/WorldWise/assets/87220798/6fd3adc9-c0e9-4f34-a1c7-1b827994e681)
 
 **Add new city:**
 
-![image](https://github.com/roibenshoham/WorldWise/assets/87220798/ed351ae2-8f2b-48bd-b48d-4afff7a952e1)
+![image](https://github.com/roibenshoham/WorldWise/assets/87220798/e96a9e96-ff8c-4493-a4c2-a21c4fe51934)
 
 **City detail view:**
 
-![image](https://github.com/roibenshoham/WorldWise/assets/87220798/0c27a79a-e00e-4f70-8229-63f17a783093)
+![Screenshot 2023-08-22 113657](https://github.com/roibenshoham/WorldWise/assets/87220798/5a204c49-ae62-4d7c-be58-bf37e127f5af)
 
