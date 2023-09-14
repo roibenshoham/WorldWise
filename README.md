@@ -5,7 +5,7 @@ It provides information about various cities, including their locations on a map
 
 **Technologies & Libraries**
  * React Router
- * Contex API
+ * Context API
  * Hooks (useReducer, useMemo, useCallback) + custom hooks
  * Vite
  * Leaflet
